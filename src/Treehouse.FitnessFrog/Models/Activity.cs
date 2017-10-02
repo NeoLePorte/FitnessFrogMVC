@@ -44,6 +44,6 @@
         /// <summary>
         /// The name of the activity.
         /// </summary>
-        public string Naame { get; set; }
+        public string Name { get; set; }
     }
 }
