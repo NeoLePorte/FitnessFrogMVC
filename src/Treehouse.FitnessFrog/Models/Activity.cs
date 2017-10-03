@@ -1,4 +1,6 @@
-﻿namespace Treehouse.FitnessFrog.Models
+﻿using System.Web.Mvc;
+
+namespace Treehouse.FitnessFrog.Models
 {
     /// <summary>
     /// Represents a physical activity.
